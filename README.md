@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hi 👋, This is Sayadin </h1>
 <h3 align="center"> An IT Engineer 👨‍💻, Software Development Passionate, Security Enthusiastic.</h3> <br> 
-
+---
 
 - 🔭 I’m currently employed as an IT engineer at Young Optics
 - 🌱 I’m currently learning about System Aministration Controlling and Backup & Recovery System as well
